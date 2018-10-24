@@ -11,8 +11,8 @@ _by Yahia Elhag_
 > You can refer to your previous changes easily if you have a problem with your current project or want to use previous code in your project in order to improve it.  
 > You can also remove these changes if you believe they are not needed in your history.  
   
-[PICTURE HERE]
-  
+[PICTURE HERE]  
+<!--Should bold Github since Git is bolded in the first section-->   
 Github is a website used to post your projects and their previous versions for everyone to see. Similar to Git, you can refer back to your projects for the sake of improvement, removal, or fixing errors with your current file. However, the main difference between the two is that it is also used to **easily collaborate with one or more users on one or multiple projects**.
 > Users go through a very short and easy process in order to collaborate with others, which would be taught later in the tutorial!  
 > Collaborations are usually for adding suggested features or fixing bugs on one project, but they can be used for so much more!
